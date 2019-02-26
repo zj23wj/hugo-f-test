@@ -1,0 +1,21 @@
+---
+label: adad
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: adadaaa
+  label: adad
+  description: sssss
+  hidden: false
+  config:
+    required: false
+- type: color
+  name: cc
+  config:
+    color_format: Hex
+  label: cc
+- type: text
+  name: ccccsdsdsd
+  label: ccccsdsdsd
+  default: adasd
