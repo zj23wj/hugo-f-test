@@ -19,3 +19,5 @@ fields:
   name: ccccsdsdsd
   label: ccccsdsdsd
   default: adasd
+pages:
+- content/docs/ttt.md
